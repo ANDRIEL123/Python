@@ -1,0 +1,10 @@
+D:\Faculdade - SI UNIFRA\Metodos de pesquisa e ordenação\shakersort-cocktailsort\C#\code\code\bin\Debug\code.exe.config
+D:\Faculdade - SI UNIFRA\Metodos de pesquisa e ordenação\shakersort-cocktailsort\C#\code\code\bin\Debug\code.exe
+D:\Faculdade - SI UNIFRA\Metodos de pesquisa e ordenação\shakersort-cocktailsort\C#\code\code\bin\Debug\code.pdb
+D:\Faculdade - SI UNIFRA\Metodos de pesquisa e ordenação\shakersort-cocktailsort\C#\code\code\obj\Debug\code.csprojAssemblyReference.cache
+D:\Faculdade - SI UNIFRA\Metodos de pesquisa e ordenação\shakersort-cocktailsort\C#\code\code\obj\Debug\code.Form.resources
+D:\Faculdade - SI UNIFRA\Metodos de pesquisa e ordenação\shakersort-cocktailsort\C#\code\code\obj\Debug\code.Properties.Resources.resources
+D:\Faculdade - SI UNIFRA\Metodos de pesquisa e ordenação\shakersort-cocktailsort\C#\code\code\obj\Debug\code.csproj.GenerateResource.cache
+D:\Faculdade - SI UNIFRA\Metodos de pesquisa e ordenação\shakersort-cocktailsort\C#\code\code\obj\Debug\code.csproj.CoreCompileInputs.cache
+D:\Faculdade - SI UNIFRA\Metodos de pesquisa e ordenação\shakersort-cocktailsort\C#\code\code\obj\Debug\code.exe
+D:\Faculdade - SI UNIFRA\Metodos de pesquisa e ordenação\shakersort-cocktailsort\C#\code\code\obj\Debug\code.pdb
